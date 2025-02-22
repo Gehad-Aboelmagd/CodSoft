@@ -7,7 +7,6 @@ using namespace std;
 int main() {
     int generated_number;
     generated_number = rand() % 101;
-    // cout << generated_number << endl;
 
     int user_guess;
     cout << "Enter a number between 0 and 100: ";
