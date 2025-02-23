@@ -8,10 +8,10 @@ The intern subject was about C++ passing by gradually difficult tasks.
 Task #2 : Simple Calculator ➕🟰 <br>
 Task #3 : Tic Tac Toe Game ❌⭕ <br>
 
-To build the source code into an exe: ⚒️
+To build the source code into an exe:
 >g++ -o exe_name file_name.cpp
 
-To run the exe file: 🛑
+To run the exe file:
 >./exe_name
 
 
