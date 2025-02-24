@@ -9,7 +9,7 @@ Task #2 : Simple Calculator ➕🟰 <br>
 Task #3 : Tic Tac Toe Game ❌⭕ <br>
 
 To build the source code into an exe:
->g++ -o exe_name file_name.cpp
+>```g++ -o exe_name file_name.cpp```
 
 To run the exe file:
->./exe_name
+>```./exe_name```
